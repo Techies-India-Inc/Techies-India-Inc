@@ -1,4 +1,4 @@
-- 👋 Hi, It’s [Techies India Inc.](https://techiesindiainc.com/)
+- 👋 Hi, It’s ####Techies India Inc.
 - 👀 We do Custom Software & eCommerce Development
 - 🌱 Specialized in [Magento Development](https://techiesindiainc.com/magento-development), Shopify, BigCommerce
 - 💞️ Love to Work with SMB, Enterprise & Agencies
